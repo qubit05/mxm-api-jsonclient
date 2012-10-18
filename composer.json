@@ -1,0 +1,26 @@
+{
+    "name": "qubit05/mxm-api-json",
+    "type": "library",
+    "description": "Mxm Api Components",
+    "keywords": [],
+    "homepage": "http://www.emailcenteruk.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Minett",
+            "role": "Developer"
+        },
+        {
+            "name": "James Dempster",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "Mxm_Api_": "" }
+    },
+    "target-dir": "Mxm/Api",
+    "minimum-stability": "dev"
+}
